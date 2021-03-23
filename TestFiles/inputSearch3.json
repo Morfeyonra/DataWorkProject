@@ -1,0 +1,8 @@
+{
+  "criterias": [
+    {"lastName": "Криворуков"},
+    {"productName": "сахар", "minTimes": 3},
+    {"minExpenses": 15000, "maxExpenses": 30000},
+    {"badCustomers": 0}
+  ]
+}

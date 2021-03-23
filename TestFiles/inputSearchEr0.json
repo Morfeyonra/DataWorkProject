@@ -1,0 +1,8 @@
+{
+  "ЧТОБ ДЖЕЙСОН БЫЛ НА МОЕМ СТОЛЕ ДО ОБЕДА": [
+    {"lastName": "Иванов"},
+    {"productName": "макаронныеизделия", "minTimes": 3},
+    {"minExpenses": 112, "maxExpenses": 1500},
+    {"badCustomers": 3}
+  ]
+}

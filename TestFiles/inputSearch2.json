@@ -1,0 +1,12 @@
+{
+  "criterias": [
+    {"lastName": "Петров"},
+    {"lastName": "Иванов"},
+    {"productName": "макаронныеизделия", "minTimes": 3},
+    {"productName": "шоколад", "minTimes": 2},
+    {"productName": "мясо", "minTimes": 4},
+    {"minExpenses": 112, "maxExpenses": 1500},
+    {"minExpenses": 2000, "maxExpenses": 4000},
+    {"badCustomers": 3}
+  ]
+}
